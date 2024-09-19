@@ -38,6 +38,8 @@ URL Parsing
 ## References
 [1]	Parmar, P. H. (2020). Music Recommendation System Using Facial Expression Recognition (Master's thesis). Birla Vishvakarma Mahavidyalaya (Engineering 
 	College), 	An 	Autonomous 	Institution 	affiliated 	to GujaratTechnologicalUniversity  
-  https://bvmengineering.ac.in/NAAC/Criteria1/1.3/1.3.4/18CP807_Thesis.pdf
-[2]	Koelstra, S., Muhl, C., Soleymani, M., Lee, J.S., Yazdani, A., Ebrahimi, T., Pun, T., Nijholt, A., & Patras, I. (2011). DEAP: A Database for Emotion Analysis; Using Physiological Signals. IEEE Transactions on Affective Computing, 3(1), 18-31. (https://ieeexplore.ieee.org/document/5589328) 
+  	https://bvmengineering.ac.in/NAAC/Criteria1/1.3/1.3.4/18CP807_Thesis.pdf
+  
+[2]	Koelstra, S., Muhl, C., Soleymani, M., Lee, J.S., Yazdani, A., Ebrahimi, T., Pun, T., Nijholt, A., & Patras, I. (2011). DEAP: A Database for Emotion Analysis; Using Physiological Signals. IEEE 		Transactions on Affective Computing, 3(1), 18-31. (https://ieeexplore.ieee.org/document/5589328) 
+
 [3]	Yang, Y., Wang, X., & Chen, L. (2014). Music Emotion Recognition: A State of the Art Review. IEEE Transactions on Affective Computing, 5(4), 1-1. (https://ieeexplore.ieee.org/document/6703570 
