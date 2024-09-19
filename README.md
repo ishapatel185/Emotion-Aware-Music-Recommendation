@@ -15,8 +15,13 @@ The user interface, built with Streamlit, captures a 5-second video of the user 
 ## Screenshots
 ## Technologies Used
 Python
+
 Streamlit
+
 OpenCV
+
 DeepFace
+
 Pandas
+
 URL Parsing
