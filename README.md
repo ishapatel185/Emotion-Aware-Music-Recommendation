@@ -12,7 +12,10 @@ Facial Expression Image Dataset: This dataset contains images of facial expressi
 
 ## User Interface
 The user interface, built with Streamlit, captures a 5-second video of the user to assess their mood. Utilizing facial emotion recognition, the system then curates and recommends 5 songs, providing direct links to both YouTube and Spotify for seamless listening.
+
 ## Screenshots
+![isha_happy](https://github.com/user-attachments/assets/f4aa7a7e-b2a2-457f-a889-c4e6d92a6dfa)
+
 ## Technologies Used
 Python
 
